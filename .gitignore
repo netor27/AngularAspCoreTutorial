@@ -7,7 +7,8 @@
 *.so
 
 # Directories
-src\AngularAspCoreTutorial\bin\
-src\AngularAspCoreTutorial\node_modules\
-src\AngularAspCoreTutorial\obj\
-src\AngularAspCoreTutorial\wwwroot\lib\
+src/AngularAspCoreTutorial/bin/
+src/AngularAspCoreTutorial/node_modules/
+src/AngularAspCoreTutorial/obj/
+src/AngularAspCoreTutorial/wwwroot/lib/
+
